@@ -7659,3 +7659,5 @@ tile_map_data = PackedByteArray("AAD3//X/AAASAAMAAAD3//b/AAASAAQAAAD4//X/AAATAAM
 tile_set = SubResource("TileSet_aui74")
 
 [node name="Timer" type="Timer" parent="." unique_id=52958977]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1160778018]
